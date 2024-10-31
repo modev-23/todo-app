@@ -1,0 +1,8 @@
+Id,Importance,Status,Description
+1,Optional,Done,Complete Go project
+2,Secondary,Created,Review PRs
+3,Medium,Done,Refactor proxy server
+4,Optional,Abandoned,Add concurrency
+5,Medium,Created,this is a todo i just created
+6,Medium,Created,this is a todo i just created
+7,Medium,Created,prepare for exam
